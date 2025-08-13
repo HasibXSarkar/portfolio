@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual env
+env/
+venv/
+
+# Env files
+.env
+
+# Static and media (optional — keep media if needed in repo)
+staticfiles/
+portfolio-frontend/
+
+# Node (if your React frontend is in this repo)
+portfolio-frontend/node_modules/
+portfolio-frontend/build/
